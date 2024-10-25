@@ -19,6 +19,9 @@ public class TicketMachine {
     // The number of tickets printed.
     private Integer ticketNumber;
 
+
+
+
     /**
      * Create a machine that issues tickets of the given price.
      * Note that the price must be greater than zero, and there
